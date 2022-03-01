@@ -1,0 +1,46 @@
+id: 3a6470c1095d4cbeb1cf821684562594
+annotation_type: index
+revision: '00001'
+annotations:
+  c96210ecdd014d6ab1647fda72c61cf6:
+    work_id: W4C6BF3EF
+    span:
+      vol: Colophon
+      start: 0
+      end: 98
+  ff857be1e1c94cdeaac781919e5ed237:
+    work_id: W7AE18676
+    span:
+      vol: Preface
+      start: 0
+      end: 8
+  c9e6b5d8e53d4a8fbc7bffe43d9fd3d3:
+    work_id: WE63141A3
+    span:
+      vol: Title
+      start: 0
+      end: 47
+  b9e655417d714318a5b292389b3f9b8d:
+    work_id: WAA11EE1D
+    span:
+      vol: Verses 1-20
+      start: 0
+      end: 1899
+  d0844736f90f4951adef5ae8b5794b52:
+    work_id: W666963FA
+    span:
+      vol: Verses 21-40
+      start: 0
+      end: 1843
+  2ef84c96f84944f6ba6fb0f463308994:
+    work_id: W56552624
+    span:
+      vol: Verses 41-60
+      start: 0
+      end: 1855
+  c2931fa23dc347f2ad15446725f8abaf:
+    work_id: W467A69B6
+    span:
+      vol: Verses 61-77
+      start: 0
+      end: 1598

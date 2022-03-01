@@ -1,0 +1,104 @@
+id: 9d5832fdc0854630b0a1f56b94fb6496
+annotation_type: Segment
+revision: '00001'
+annotations:
+  ec97f65ea2714959b5d870f8d6018f4b:
+    span:
+      start: 0
+      end: 93
+    metadata: {}
+  2ce26c2b10a24a44a8cc87ca28b83d0a:
+    span:
+      start: 96
+      end: 192
+    metadata: {}
+  95d10c15e4034e4bb59b799bbe48e16a:
+    span:
+      start: 195
+      end: 282
+    metadata: {}
+  18f5e3249c3b415cadb7c5b0e7565ef3:
+    span:
+      start: 285
+      end: 373
+    metadata: {}
+  75364fb1f1ad4c968b3b558ad0b5f6bb:
+    span:
+      start: 376
+      end: 465
+    metadata: {}
+  b51e6c9445b84b5ba6d992357630e08b:
+    span:
+      start: 468
+      end: 566
+    metadata: {}
+  8420e2f81de7425083f139b0c9ab85ec:
+    span:
+      start: 569
+      end: 661
+    metadata: {}
+  5faa9b5994134610a9f11b59839993b5:
+    span:
+      start: 664
+      end: 753
+    metadata: {}
+  da8628d1489c4750a654868be27efc05:
+    span:
+      start: 756
+      end: 849
+    metadata: {}
+  d819d376bc324fdbb61b44397ac37bae:
+    span:
+      start: 852
+      end: 943
+    metadata: {}
+  b742cb07828e42a08e1896baab6ede8c:
+    span:
+      start: 946
+      end: 1038
+    metadata: {}
+  3fc8aa5d59d14e95aeeef5f6c983d4d6:
+    span:
+      start: 1041
+      end: 1132
+    metadata: {}
+  ccad422d779148d087bf67078f124779:
+    span:
+      start: 1135
+      end: 1223
+    metadata: {}
+  21b1440e44a549f5b9ba03734943af61:
+    span:
+      start: 1226
+      end: 1320
+    metadata: {}
+  a90bdace3fc7408a83074eb7948651c2:
+    span:
+      start: 1323
+      end: 1419
+    metadata: {}
+  2cb265fae3e54e629efaa796fa49db25:
+    span:
+      start: 1422
+      end: 1518
+    metadata: {}
+  8864ba87354e43e0a15af9dce28d5049:
+    span:
+      start: 1521
+      end: 1618
+    metadata: {}
+  ef7d44e6b8bf4f0b9ec65e47db127f98:
+    span:
+      start: 1621
+      end: 1710
+    metadata: {}
+  925fdad8a42d435e941dc63e5a81d422:
+    span:
+      start: 1713
+      end: 1801
+    metadata: {}
+  05613ae1d6824633a478dd55f50acedd:
+    span:
+      start: 1804
+      end: 1896
+    metadata: {}

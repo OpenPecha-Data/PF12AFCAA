@@ -1,0 +1,37 @@
+id: PF12AFCAA
+initial_creation_type: input
+source_metadata:
+  title: 'Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ'
+  language: sa
+  volumes:
+    fb8d6a87b7c84e31bd3bff783a193c73:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W4C6BF3EF
+    c90d0c43a852471d87a9ee312d885284:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W7AE18676
+    97221ce5b4ca4a1e88f8d5524e3cbf10:
+      title: Title
+      base_file: Title.txt
+      work_id: WE63141A3
+    1df78c30c069409893b1ed550e896141:
+      title: Verses 1-20
+      base_file: Verses 1-20.txt
+      work_id: WAA11EE1D
+    e48f0b48b1b54b709f3bd1034892158c:
+      title: Verses 21-40
+      base_file: Verses 21-40.txt
+      work_id: W666963FA
+    22d9cfacf20641b59773fbe98ca4d261:
+      title: Verses 41-60
+      base_file: Verses 41-60.txt
+      work_id: W56552624
+    7b1fcbef960b480698897a91fc8eda70:
+      title: Verses 61-77
+      base_file: Verses 61-77.txt
+      work_id: W467A69B6
+  chapter_to_tile: {}
+created_at: '2022-03-01T23:04:01.947548'
+last_modified_at: '2022-03-01T23:04:01.947555'
